@@ -37,6 +37,10 @@ ehthumbs.db
 Thumbs.db
 *.sass-cache*
 
+# Web Services Instances #
+######################
+*.pem
+
 # folders #
 ######################
 Ex_Files_Cloud_Computing_Core_Concepts/
